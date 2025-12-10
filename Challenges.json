@@ -1,0 +1,2186 @@
+[
+  {
+    "challenge": "Wildcat drilling: unexpected formation behavior",
+    "macrotopic": "Drilling",
+    "topic": "BH instability",
+    "tags": [
+      "CCS"
+    ],
+    "level_1_solution": "FlowGuardian",
+    "level_2_solution": "KickAlarm",
+    "solutions": [
+      "FlowGuardian",
+      "KickAlarm"
+    ]
+  },
+  {
+    "challenge": "Narrow margin (Fracture Gradient/Pore Pressure)",
+    "macrotopic": "Drilling",
+    "topic": "BH instability",
+    "tags": [
+      "HPHT",
+      "Deepwater"
+    ],
+    "level_1_solution": "FlowGuardian",
+    "level_2_solution": [
+      "KickAlarm",
+      "NSD"
+    ],
+    "solutions": [
+      "FlowGuardian",
+      "KickAlarm",
+      "NSD"
+    ]
+  },
+  {
+    "challenge": "drilling across overpressurized zones",
+    "macrotopic": "Drilling",
+    "topic": "BH instability",
+    "tags": [
+      "HPHT"
+    ],
+    "level_1_solution": "FlowGuardian",
+    "level_2_solution": "KickAlarm",
+    "solutions": [
+      "FlowGuardian",
+      "KickAlarm"
+    ]
+  },
+  {
+    "challenge": "Borehole cleaning problems, cuttings accumulation",
+    "macrotopic": "Drilling",
+    "topic": "BH instability",
+    "tags": [],
+    "level_1_solution": "DrillClean",
+    "level_2_solution": "NSD",
+    "solutions": [
+      "DrillClean",
+      "NSD"
+    ]
+  },
+  {
+    "challenge": "cavings/hole collapse",
+    "macrotopic": "Drilling",
+    "topic": "BH instability",
+    "tags": [
+      "HPHT",
+      "Deepwater"
+    ],
+    "level_1_solution": "DrillClean",
+    "level_2_solution": [
+      "SmartShakers",
+      "NSD"
+    ],
+    "solutions": [
+      "DrillClean",
+      "SmartShakers",
+      "NSD"
+    ]
+  },
+  {
+    "challenge": "stuck pipe prevention (low returns, cuttings beds, hole inclination) - associated to NPT",
+    "macrotopic": "Drilling",
+    "topic": "BH instability",
+    "tags": [],
+    "level_1_solution": "DrillClean",
+    "level_2_solution": [
+      "NSD"
+    ],
+    "solutions": [
+      "DrillClean",
+      "NSD"
+    ]
+  },
+  {
+    "challenge": "ECD (Equivalent Circulating Density) and BHP (Bottom Hole Pressure) control while drilling",
+    "macrotopic": "Drilling",
+    "topic": "BH instability",
+    "tags": [],
+    "level_1_solution": [
+      "DrillClean",
+      "NSD"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "DrillClean",
+      "NSD"
+    ]
+  },
+  {
+    "challenge": "basic safety (Kick Detection)",
+    "macrotopic": "Drilling",
+    "topic": "BH instability",
+    "tags": [],
+    "level_1_solution": "FlowGuardian",
+    "level_2_solution": "KickMaster (OUT)",
+    "solutions": [
+      "FlowGuardian",
+      "KickMaster (OUT)"
+    ]
+  },
+  {
+    "challenge": "cleaning practices efficiency monitoring (ILT reduction)",
+    "macrotopic": "Drilling",
+    "topic": "Time optimization",
+    "tags": [],
+    "level_1_solution": "DrillClean",
+    "level_2_solution": null,
+    "solutions": [
+      "DrillClean"
+    ]
+  },
+  {
+    "challenge": "non productive time (NPT) record and analysis",
+    "macrotopic": "Drilling",
+    "topic": "Time optimization",
+    "tags": [],
+    "level_1_solution": "DrillBest - WB",
+    "level_2_solution": "DrillBest - Bardasz",
+    "solutions": [
+      "DrillBest - WB",
+      "DrillBest - Bardasz"
+    ]
+  },
+  {
+    "challenge": "invisible loss time (ILT)",
+    "macrotopic": "Drilling",
+    "topic": "Time optimization",
+    "tags": [],
+    "level_1_solution": "DrillBest - WB",
+    "level_2_solution": "DrillBest - Bardasz",
+    "solutions": [
+      "DrillBest - WB",
+      "DrillBest - Bardasz"
+    ]
+  },
+  {
+    "challenge": "Monitor crew performances",
+    "macrotopic": "Drilling",
+    "topic": "Time optimization",
+    "tags": [],
+    "level_1_solution": "DrillBest - WB",
+    "level_2_solution": "DrillBest - Bardasz",
+    "solutions": [
+      "DrillBest - WB",
+      "DrillBest - Bardasz"
+    ]
+  },
+  {
+    "challenge": "Best Practices Identification and Sharing",
+    "macrotopic": "Drilling",
+    "topic": "Time optimization",
+    "tags": [],
+    "level_1_solution": [
+      "DrillBest - WB",
+      "ROCC"
+    ],
+    "level_2_solution": "DrillBest - Bardasz",
+    "solutions": [
+      "DrillBest - WB",
+      "ROCC",
+      "DrillBest - Bardasz"
+    ]
+  },
+  {
+    "challenge": "Improve Operational Efficiency",
+    "macrotopic": "Drilling",
+    "topic": "Time optimization",
+    "tags": [],
+    "level_1_solution": "DrillBest - WB",
+    "level_2_solution": "DrillBest - Bardasz",
+    "solutions": [
+      "DrillBest - WB",
+      "DrillBest - Bardasz"
+    ]
+  },
+  {
+    "challenge": "NPT: pump inefficiency",
+    "macrotopic": "Drilling",
+    "topic": "Time optimization",
+    "tags": [],
+    "level_1_solution": "KickAlarm (IN)",
+    "level_2_solution": null,
+    "solutions": [
+      "KickAlarm (IN)"
+    ]
+  },
+  {
+    "challenge": "predictive maintenance on pumps",
+    "macrotopic": "Drilling",
+    "topic": "Time optimization",
+    "tags": [],
+    "level_1_solution": "KickAlarm (IN)",
+    "level_2_solution": null,
+    "solutions": [
+      "KickAlarm (IN)"
+    ]
+  },
+  {
+    "challenge": "Cementing plan",
+    "macrotopic": "Drilling",
+    "topic": "Time optimization",
+    "tags": [],
+    "level_1_solution": "DrillClean",
+    "level_2_solution": null,
+    "solutions": [
+      "DrillClean"
+    ]
+  },
+  {
+    "challenge": "Mud flow measurement in case of inhomogeneous mud systems (e.g. mud conditioning phases, spot high-vis pills)",
+    "macrotopic": "Drilling",
+    "topic": "Mud flow measurement",
+    "tags": [],
+    "level_1_solution": "KickMaster",
+    "level_2_solution": null,
+    "solutions": [
+      "KickMaster"
+    ]
+  },
+  {
+    "challenge": "Mud flow measure in multiphase conditions (high gas content)",
+    "macrotopic": "Drilling",
+    "topic": "Mud flow measurement",
+    "tags": [
+      "Geothermal",
+      "Unconventional"
+    ],
+    "level_1_solution": "KickMaster",
+    "level_2_solution": null,
+    "solutions": [
+      "KickMaster"
+    ]
+  },
+  {
+    "challenge": "Accurate flow measurement with a wide flow range",
+    "macrotopic": "Drilling",
+    "topic": "Mud flow measurement",
+    "tags": [],
+    "level_1_solution": "KickMaster",
+    "level_2_solution": null,
+    "solutions": [
+      "KickMaster"
+    ]
+  },
+  {
+    "challenge": "Flow monitoring without KickAlarm or Geofracture service (NSD or MPD scenarios) - well management",
+    "macrotopic": "Drilling",
+    "topic": "Mud flow measurement",
+    "tags": [],
+    "level_1_solution": [
+      "Coriolis",
+      "KickMaster"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "Coriolis",
+      "KickMaster"
+    ]
+  },
+  {
+    "challenge": "Risk of sensor obstruction",
+    "macrotopic": "Drilling",
+    "topic": "Mud flow measurement",
+    "tags": [],
+    "level_1_solution": "KickMaster",
+    "level_2_solution": null,
+    "solutions": [
+      "KickMaster"
+    ]
+  },
+  {
+    "challenge": "bit and drill string worn out",
+    "macrotopic": "Drilling",
+    "topic": "Drilling efficiency",
+    "tags": [],
+    "level_1_solution": "Bitlife",
+    "level_2_solution": "DrillVibe",
+    "solutions": [
+      "Bitlife",
+      "DrillVibe"
+    ]
+  },
+  {
+    "challenge": "Maintain/improve drilling speed efficiency",
+    "macrotopic": "Drilling",
+    "topic": "Drilling efficiency",
+    "tags": [],
+    "level_1_solution": "DrillBest",
+    "level_2_solution": [
+      "Bitlife",
+      "DrillVibe"
+    ],
+    "solutions": [
+      "DrillBest",
+      "Bitlife",
+      "DrillVibe"
+    ]
+  },
+  {
+    "challenge": "drill string torsional vibration",
+    "macrotopic": "Drilling",
+    "topic": "Drilling efficiency",
+    "tags": [],
+    "level_1_solution": "DrillVibe",
+    "level_2_solution": null,
+    "solutions": [
+      "DrillVibe"
+    ]
+  },
+  {
+    "challenge": "pipe wash-out and twist-off",
+    "macrotopic": "Drilling",
+    "topic": "Drilling efficiency",
+    "tags": [],
+    "level_1_solution": [
+      "DrillVibe",
+      "Bitlife"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "DrillVibe",
+      "Bitlife"
+    ]
+  },
+  {
+    "challenge": "open hole volume calculation at section TD (no caliper log)",
+    "macrotopic": "Drilling",
+    "topic": "Drilling efficiency",
+    "tags": [],
+    "level_1_solution": "DrillClean",
+    "level_2_solution": null,
+    "solutions": [
+      "DrillClean"
+    ]
+  },
+  {
+    "challenge": "contribute to LCM strategy, mud losses identification",
+    "macrotopic": "Drilling",
+    "topic": "Drilling efficiency",
+    "tags": [
+      "Geothermal"
+    ],
+    "level_1_solution": [
+      "KickAlarm",
+      "Geofracture"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "KickAlarm",
+      "Geofracture"
+    ]
+  },
+  {
+    "challenge": "Downhole T control - limit downhole T increase",
+    "macrotopic": "Drilling",
+    "topic": "Drilling efficiency",
+    "tags": [
+      "HPHT",
+      "Geothermal"
+    ],
+    "level_1_solution": "NSD",
+    "level_2_solution": null,
+    "solutions": [
+      "NSD"
+    ]
+  },
+  {
+    "challenge": "fractured reservoir: unknown fractures ID",
+    "macrotopic": "Drilling",
+    "topic": "fractures and faults",
+    "tags": [
+      "Geothermal"
+    ],
+    "level_1_solution": [
+      "KickAlarm",
+      "Geofracture"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "KickAlarm",
+      "Geofracture"
+    ]
+  },
+  {
+    "challenge": "Plan Completion without Image logs",
+    "macrotopic": "Drilling",
+    "topic": "fractures and faults",
+    "tags": [],
+    "level_1_solution": [
+      "KickAlarm",
+      "Geofracture"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "KickAlarm",
+      "Geofracture"
+    ]
+  },
+  {
+    "challenge": "Geosteering through faults",
+    "macrotopic": "Drilling",
+    "topic": "fractures and faults",
+    "tags": [],
+    "level_1_solution": [
+      "KickAlarm",
+      "Geofracture",
+      "Georox"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "KickAlarm",
+      "Geofracture",
+      "Georox"
+    ]
+  },
+  {
+    "challenge": "fracture identification with high gas content",
+    "macrotopic": "Drilling",
+    "topic": "fractures and faults",
+    "tags": [
+      "HPHT"
+    ],
+    "level_1_solution": [
+      "KickMaster",
+      "Geofracture"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "KickMaster",
+      "Geofracture"
+    ]
+  },
+  {
+    "challenge": "Induced fractures identification",
+    "macrotopic": "Drilling",
+    "topic": "fractures and faults",
+    "tags": [],
+    "level_1_solution": [
+      "KickAlarm",
+      "Geofracture"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "KickAlarm",
+      "Geofracture"
+    ]
+  },
+  {
+    "challenge": "Remote Visualization",
+    "macrotopic": "Digital and Data Management",
+    "topic": "Data Management",
+    "tags": [],
+    "level_1_solution": "Wellcoms",
+    "level_2_solution": [
+      "Drillcoms",
+      "ROCC"
+    ],
+    "solutions": [
+      "Wellcoms",
+      "Drillcoms",
+      "ROCC"
+    ]
+  },
+  {
+    "challenge": "Remote Monitoring",
+    "macrotopic": "Digital and Data Management",
+    "topic": "Data Management",
+    "tags": [],
+    "level_1_solution": [
+      "Welcoms",
+      "ROCC"
+    ],
+    "level_2_solution": "Drillcoms",
+    "solutions": [
+      "Welcoms",
+      "ROCC",
+      "Drillcoms"
+    ]
+  },
+  {
+    "challenge": "KPI analysis",
+    "macrotopic": "Digital and Data Management",
+    "topic": "Data Management",
+    "tags": [],
+    "level_1_solution": [
+      "DrillBest",
+      "DrillComs"
+    ],
+    "level_2_solution": "ROCC",
+    "solutions": [
+      "DrillBest",
+      "DrillComs",
+      "ROCC"
+    ]
+  },
+  {
+    "challenge": "Engineering Models",
+    "macrotopic": "Digital and Data Management",
+    "topic": "Data Management",
+    "tags": [],
+    "level_1_solution": "ROCC",
+    "level_2_solution": null,
+    "solutions": [
+      "ROCC"
+    ]
+  },
+  {
+    "challenge": "Help in characterization of cap rock efficiency with mineralogical/elemental characterization",
+    "macrotopic": "Energy transition",
+    "topic": "Inorganic",
+    "tags": [
+      "CCS"
+    ],
+    "level_1_solution": [
+      "Georox",
+      "digital cuttings"
+    ],
+    "level_2_solution": [
+      "ICP-MS in lab",
+      "GeoSkope",
+      "G5"
+    ],
+    "solutions": [
+      "Georox",
+      "digital cuttings",
+      "ICP-MS in lab",
+      "GeoSkope",
+      "G5"
+    ]
+  },
+  {
+    "challenge": "Distinction between indigenous and injected gas signatures",
+    "macrotopic": "Energy transition",
+    "topic": "Non-HC gases",
+    "tags": [
+      "CCS"
+    ],
+    "level_1_solution": [
+      "GeoIsotopes",
+      "GeoSkope"
+    ],
+    "level_2_solution": "GeoTubes in lab",
+    "solutions": [
+      "GeoIsotopes",
+      "GeoSkope",
+      "GeoTubes in lab"
+    ]
+  },
+  {
+    "challenge": "Regulatory compliance",
+    "macrotopic": "Energy transition",
+    "topic": "Inorganic",
+    "tags": [
+      "CCS"
+    ],
+    "level_1_solution": "water characterization in lab and onfield",
+    "level_2_solution": null,
+    "solutions": [
+      "water characterization in lab and onfield"
+    ]
+  },
+  {
+    "challenge": "CO2 Plume migration",
+    "macrotopic": "Energy transition",
+    "topic": "Inorganic",
+    "tags": [
+      "CCS"
+    ],
+    "level_1_solution": "water characterization in lab and onfield",
+    "level_2_solution": null,
+    "solutions": [
+      "water characterization in lab and onfield"
+    ]
+  },
+  {
+    "challenge": "CO2 leakage detection in ''water''",
+    "macrotopic": "Energy transition",
+    "topic": "Inorganic",
+    "tags": [
+      "CCS"
+    ],
+    "level_1_solution": "water characterization in lab and onfield",
+    "level_2_solution": null,
+    "solutions": [
+      "water characterization in lab and onfield"
+    ]
+  },
+  {
+    "challenge": "Drilling in very compact rocks while keeping the well clean and stable",
+    "macrotopic": "Energy transition",
+    "topic": "",
+    "tags": [
+      "Geothermal",
+      "CCS"
+    ],
+    "level_1_solution": [
+      "drill vibe",
+      "drill clean"
+    ],
+    "level_2_solution": [
+      "Georox",
+      "digital cuttings"
+    ],
+    "solutions": [
+      "drill vibe",
+      "drill clean",
+      "Georox",
+      "digital cuttings"
+    ]
+  },
+  {
+    "challenge": "LREE (Light Rare Earth Elements), LILE (Large Ion Lithophile Elements) and HFSE (High Field Strength Elements) detection",
+    "macrotopic": "Energy transition",
+    "topic": "",
+    "tags": [
+      "Geothermal"
+    ],
+    "level_1_solution": "Georox",
+    "level_2_solution": "ICP-MS",
+    "solutions": [
+      "Georox",
+      "ICP-MS"
+    ]
+  },
+  {
+    "challenge": "Mineralized fracture detection",
+    "macrotopic": "Energy transition",
+    "topic": "",
+    "tags": [
+      "Geothermal"
+    ],
+    "level_1_solution": "Geofracture",
+    "level_2_solution": "Georox",
+    "solutions": [
+      "Geofracture",
+      "Georox"
+    ]
+  },
+  {
+    "challenge": "Borehole collapse and preserve drilling equipment",
+    "macrotopic": "Energy transition",
+    "topic": "",
+    "tags": [
+      "Geothermal",
+      "CCS"
+    ],
+    "level_1_solution": [
+      "NSD",
+      "DrillClean"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "NSD",
+      "DrillClean"
+    ]
+  },
+  {
+    "challenge": "losses while drilling",
+    "macrotopic": "Energy transition",
+    "topic": "",
+    "tags": [
+      "Geothermal"
+    ],
+    "level_1_solution": "KickAlarm",
+    "level_2_solution": null,
+    "solutions": [
+      "KickAlarm"
+    ]
+  },
+  {
+    "challenge": "Geothermal: temperature ID with geothermometers",
+    "macrotopic": "Energy transition",
+    "topic": "",
+    "tags": [
+      "Geothermal"
+    ],
+    "level_1_solution": [
+      "Georox",
+      "water characterization in lab"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "Georox",
+      "water characterization in lab"
+    ]
+  },
+  {
+    "challenge": "tools unavailable for high T",
+    "macrotopic": "Energy transition",
+    "topic": "",
+    "tags": [
+      "Geothermal",
+      "HPHT"
+    ],
+    "level_1_solution": "NSD",
+    "level_2_solution": [
+      "Georox",
+      "VINCI Geomechanics",
+      "GeoFractures"
+    ],
+    "solutions": [
+      "NSD",
+      "Georox",
+      "VINCI Geomechanics",
+      "GeoFractures"
+    ]
+  },
+  {
+    "challenge": "water allocation",
+    "macrotopic": "Energy transition",
+    "topic": "",
+    "tags": [
+      "Geothermal"
+    ],
+    "level_1_solution": "lab water isotopes",
+    "level_2_solution": "ICP-MS",
+    "solutions": [
+      "lab water isotopes",
+      "ICP-MS"
+    ]
+  },
+  {
+    "challenge": "scaling and corrosion tendency",
+    "macrotopic": "Energy transition",
+    "topic": "",
+    "tags": [
+      "Geothermal",
+      "CCS"
+    ],
+    "level_1_solution": [
+      "GeoSKOPE",
+      "lab IC"
+    ],
+    "level_2_solution": [
+      "Georox",
+      "ICP-MS"
+    ],
+    "solutions": [
+      "GeoSKOPE",
+      "lab IC",
+      "Georox",
+      "ICP-MS"
+    ]
+  },
+  {
+    "challenge": "screening of potential sources for critical raw materials (or minerals) - mining",
+    "macrotopic": "Energy transition",
+    "topic": "",
+    "tags": [
+      "Geothermal",
+      "Lithium"
+    ],
+    "level_1_solution": [
+      "LIBS",
+      "ICP-MS (on brines or solid)",
+      "IC"
+    ],
+    "level_2_solution": "Georox",
+    "solutions": [
+      "LIBS",
+      "ICP-MS (on brines or solid)",
+      "IC",
+      "Georox"
+    ]
+  },
+  {
+    "challenge": "Biogas analysis",
+    "macrotopic": "Energy transition",
+    "topic": "",
+    "tags": [],
+    "level_1_solution": [
+      "G5",
+      "Carbon isotopes (GeoIsotopes or lab)",
+      "GeoSKOPE"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "G5",
+      "Carbon isotopes (GeoIsotopes or lab)",
+      "GeoSKOPE"
+    ]
+  },
+  {
+    "challenge": "Surface leakage detection (Natural H2 exploration or CO2 in CCUS projects)",
+    "macrotopic": "Energy transition",
+    "topic": "Non-HC gases",
+    "tags": [
+      "CCS",
+      "Natural H2"
+    ],
+    "level_1_solution": "Geotubes (or other containers) in lab GCTCD",
+    "level_2_solution": null,
+    "solutions": [
+      "Geotubes (or other containers) in lab GCTCD"
+    ]
+  },
+  {
+    "challenge": "monitor CO2 purity in injection phase",
+    "macrotopic": "Energy transition",
+    "topic": "Non-HC gases",
+    "tags": [
+      "CCS"
+    ],
+    "level_1_solution": "solution for on site monitoring",
+    "level_2_solution": "lab analysis",
+    "solutions": [
+      "solution for on site monitoring",
+      "lab analysis"
+    ]
+  },
+  {
+    "challenge": "monitor CO2 purity at the emitters/capture sites",
+    "macrotopic": "Energy transition",
+    "topic": "Non-HC gases",
+    "tags": [
+      "CCS"
+    ],
+    "level_1_solution": "solution for on site monitoring",
+    "level_2_solution": "lab analysis",
+    "solutions": [
+      "solution for on site monitoring",
+      "lab analysis"
+    ]
+  },
+  {
+    "challenge": "geothermal resource characterization",
+    "macrotopic": "Energy transition",
+    "topic": "",
+    "tags": [
+      "Geothermal"
+    ],
+    "level_1_solution": "lab water characterization (ICP-MS, IC, isotopes)",
+    "level_2_solution": [
+      "Georox",
+      "Thin Sections",
+      "clay typing with glycolation"
+    ],
+    "solutions": [
+      "lab water characterization (ICP-MS, IC, isotopes)",
+      "Georox",
+      "Thin Sections",
+      "clay typing with glycolation"
+    ]
+  },
+  {
+    "challenge": "exploration - surface campaign for geothermal",
+    "macrotopic": "Energy transition",
+    "topic": "",
+    "tags": [
+      "Geothermal"
+    ],
+    "level_1_solution": [
+      "Georox",
+      "water analysis in lab"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "Georox",
+      "water analysis in lab"
+    ]
+  },
+  {
+    "challenge": "understand H2 generation mechanism",
+    "macrotopic": "Energy transition",
+    "topic": "",
+    "tags": [
+      "Natural H2"
+    ],
+    "level_1_solution": "Georox",
+    "level_2_solution": "GeoSkope",
+    "solutions": [
+      "Georox",
+      "GeoSkope"
+    ]
+  },
+  {
+    "challenge": "geochemical characterization of injected fluid for stimulation",
+    "macrotopic": "Energy transition",
+    "topic": "",
+    "tags": [
+      "Natural H2"
+    ],
+    "level_1_solution": "water characterization in lab",
+    "level_2_solution": null,
+    "solutions": [
+      "water characterization in lab"
+    ]
+  },
+  {
+    "challenge": "Identify presence or layer with natural fractures",
+    "macrotopic": "Energy transition",
+    "topic": "",
+    "tags": [
+      "Natural H2",
+      "Geothermal"
+    ],
+    "level_1_solution": "GeoFracture",
+    "level_2_solution": null,
+    "solutions": [
+      "GeoFracture"
+    ]
+  },
+  {
+    "challenge": "H2 generation mechanism via organic matter",
+    "macrotopic": "Energy transition",
+    "topic": "",
+    "tags": [
+      "Natural H2"
+    ],
+    "level_1_solution": "GeoSource, vitrinite reflectance in the lab",
+    "level_2_solution": null,
+    "solutions": [
+      "GeoSource, vitrinite reflectance in the lab"
+    ]
+  },
+  {
+    "challenge": "Gas Isotope Geochemistry to understand H2 generation mechanisms",
+    "macrotopic": "Energy transition",
+    "topic": "",
+    "tags": [
+      "Natural H2"
+    ],
+    "level_1_solution": "Geoisotope",
+    "level_2_solution": "GeoTubes and lab",
+    "solutions": [
+      "Geoisotope",
+      "GeoTubes and lab"
+    ]
+  },
+  {
+    "challenge": "presence of artificial H2 - DBM",
+    "macrotopic": "Energy transition",
+    "topic": "",
+    "tags": [
+      "Natural H2"
+    ],
+    "level_1_solution": [
+      "Bitlife",
+      "GeoSKOPE"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "Bitlife",
+      "GeoSKOPE"
+    ]
+  },
+  {
+    "challenge": "exploration - surface campaign for natural H2",
+    "macrotopic": "Energy transition",
+    "topic": "",
+    "tags": [
+      "Natural H2"
+    ],
+    "level_1_solution": [
+      "Georox",
+      "gas analysis in lab"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "Georox",
+      "gas analysis in lab"
+    ]
+  },
+  {
+    "challenge": "Formation Tops, chemostratigraphy",
+    "macrotopic": "FE",
+    "topic": "Basic FE",
+    "tags": [],
+    "level_1_solution": [
+      "Georox"
+    ],
+    "level_2_solution": [
+      "DC"
+    ],
+    "solutions": [
+      "Georox",
+      "DC"
+    ]
+  },
+  {
+    "challenge": "Mineralization top in Formation",
+    "macrotopic": "FE",
+    "topic": "Basic FE",
+    "tags": [],
+    "level_1_solution": [
+      "G5",
+      "G8"
+    ],
+    "level_2_solution": [
+      "Carbon isotopes (GeoIsotopes or lab)"
+    ],
+    "solutions": [
+      "G5",
+      "G8",
+      "Carbon isotopes (GeoIsotopes or lab)"
+    ]
+  },
+  {
+    "challenge": "Fluid Contacts",
+    "macrotopic": "FE",
+    "topic": "Basic FE",
+    "tags": [],
+    "level_1_solution": [
+      "G5",
+      "G8"
+    ],
+    "level_2_solution": [
+      "G9+"
+    ],
+    "solutions": [
+      "G5",
+      "G8",
+      "G9+"
+    ]
+  },
+  {
+    "challenge": "Seal Efficiency",
+    "macrotopic": "FE",
+    "topic": "Reservoir Quality",
+    "tags": [],
+    "level_1_solution": [
+      "G5",
+      "GEOTubes (lab analysis of carbon isotopes)"
+    ],
+    "level_2_solution": [
+      "Georox",
+      "GeoSKOPE (Helium)"
+    ],
+    "solutions": [
+      "G5",
+      "GEOTubes (lab analysis of carbon isotopes)",
+      "Georox",
+      "GeoSKOPE (Helium)"
+    ]
+  },
+  {
+    "challenge": "Tar-mat/bitumen presence",
+    "macrotopic": "FE",
+    "topic": "Fluid properties",
+    "tags": [],
+    "level_1_solution": [
+      "GeoSource",
+      "HAWK + TOC (lab)"
+    ],
+    "level_2_solution": [
+      "microscopy/organic petrography (lab)"
+    ],
+    "solutions": [
+      "GeoSource",
+      "HAWK + TOC (lab)",
+      "microscopy/organic petrography (lab)"
+    ]
+  },
+  {
+    "challenge": "Reservoir continuity in oil fields",
+    "macrotopic": "FE",
+    "topic": "well-to-well",
+    "tags": [
+      "Oil Wells"
+    ],
+    "level_1_solution": [
+      "GC-MS (lab)",
+      "GEOTubes"
+    ],
+    "level_2_solution": [
+      "G8",
+      "Georox",
+      "Carbon isotopes (GeoIsotopes or lab)"
+    ],
+    "solutions": [
+      "GC-MS (lab)",
+      "GEOTubes",
+      "G8",
+      "Georox",
+      "Carbon isotopes (GeoIsotopes or lab)"
+    ]
+  },
+  {
+    "challenge": "Reservoir continuity in gas fields",
+    "macrotopic": "FE",
+    "topic": "well-to-well",
+    "tags": [
+      "Gas wells"
+    ],
+    "level_1_solution": [
+      "G5",
+      "Carbon isotopes (GeoIsotopes or lab)"
+    ],
+    "level_2_solution": [
+      "Georox",
+      "deuterium in lab"
+    ],
+    "solutions": [
+      "G5",
+      "Carbon isotopes (GeoIsotopes or lab)",
+      "Georox",
+      "deuterium in lab"
+    ]
+  },
+  {
+    "challenge": "Fluid Correlation - oil wells",
+    "macrotopic": "FE",
+    "topic": "well-to-well",
+    "tags": [
+      "Oil Wells"
+    ],
+    "level_1_solution": [
+      "G9+",
+      "G5",
+      "G8"
+    ],
+    "level_2_solution": [
+      "GC-MS (lab)"
+    ],
+    "solutions": [
+      "G9+",
+      "G5",
+      "G8",
+      "GC-MS (lab)"
+    ]
+  },
+  {
+    "challenge": "fluid correlation - gas wells",
+    "macrotopic": "FE",
+    "topic": "well-to-well",
+    "tags": [
+      "Gas wells"
+    ],
+    "level_1_solution": [
+      "G5",
+      "Carbon isotopes (GeoIsotopes or lab)"
+    ],
+    "level_2_solution": [
+      "deuterium in lab"
+    ],
+    "solutions": [
+      "G5",
+      "Carbon isotopes (GeoIsotopes or lab)",
+      "deuterium in lab"
+    ]
+  },
+  {
+    "challenge": "Fluid Typing",
+    "macrotopic": "FE",
+    "topic": "Fluid properties",
+    "tags": [],
+    "level_1_solution": [
+      "G5",
+      "G8"
+    ],
+    "level_2_solution": [
+      "G9+"
+    ],
+    "solutions": [
+      "G5",
+      "G8",
+      "G9+"
+    ]
+  },
+  {
+    "challenge": "Maturity Assessment (sample: oil)",
+    "macrotopic": "FE",
+    "topic": "Fluid properties",
+    "tags": [
+      "Oil Wells"
+    ],
+    "level_1_solution": [
+      "GC-MS",
+      "G8",
+      "G9+"
+    ],
+    "level_2_solution": [
+      "G5",
+      "Carbon isotopes (GeoIsotopes or lab)"
+    ],
+    "solutions": [
+      "GC-MS",
+      "G8",
+      "G9+",
+      "G5",
+      "Carbon isotopes (GeoIsotopes or lab)"
+    ]
+  },
+  {
+    "challenge": "Maturity Assessment (sample: gas)",
+    "macrotopic": "FE",
+    "topic": "Fluid properties",
+    "tags": [
+      "Gas wells",
+      "Unconventional"
+    ],
+    "level_1_solution": [
+      "G5",
+      "Carbon isotopes (GeoIsotopes or lab)",
+      "GeoSource"
+    ],
+    "level_2_solution": [
+      "Ro (outsourced)"
+    ],
+    "solutions": [
+      "G5",
+      "Carbon isotopes (GeoIsotopes or lab)",
+      "GeoSource",
+      "Ro (outsourced)"
+    ]
+  },
+  {
+    "challenge": "Maturity assessment (sample: source rock)",
+    "macrotopic": "FE",
+    "topic": "Fluid properties",
+    "tags": [],
+    "level_1_solution": [
+      "GeoSource"
+    ],
+    "level_2_solution": [
+      "Ro (outsourced)"
+    ],
+    "solutions": [
+      "GeoSource",
+      "Ro (outsourced)"
+    ]
+  },
+  {
+    "challenge": "Multiple Charges - Oil and Condensate",
+    "macrotopic": "FE",
+    "topic": "Fluid properties",
+    "tags": [
+      "Oil Wells"
+    ],
+    "level_1_solution": [
+      "GC-MS (lab) Diamondoids and Biomarkers"
+    ],
+    "level_2_solution": [
+      "G9+",
+      "G8 in combination with G5",
+      "Carbon isotopes (GeoIsotopes or lab)"
+    ],
+    "solutions": [
+      "GC-MS (lab) Diamondoids and Biomarkers",
+      "G9+",
+      "G8 in combination with G5",
+      "Carbon isotopes (GeoIsotopes or lab)"
+    ]
+  },
+  {
+    "challenge": "are oil and gas in reservoir associated?",
+    "macrotopic": "FE",
+    "topic": "Fluid properties",
+    "tags": [],
+    "level_1_solution": [
+      "G5",
+      "G8",
+      "G9+",
+      "Carbon isotopes (GeoIsotopes or lab)"
+    ],
+    "level_2_solution": [
+      "GC-MS (lab)"
+    ],
+    "solutions": [
+      "G5",
+      "G8",
+      "G9+",
+      "Carbon isotopes (GeoIsotopes or lab)",
+      "GC-MS (lab)"
+    ]
+  },
+  {
+    "challenge": "gas mixing",
+    "macrotopic": "FE",
+    "topic": "Fluid properties",
+    "tags": [
+      "Gas wells"
+    ],
+    "level_1_solution": [
+      "G5",
+      "Carbon isotopes (GeoIsotopes or lab)"
+    ],
+    "level_2_solution": [
+      "deuterium in lab"
+    ],
+    "solutions": [
+      "G5",
+      "Carbon isotopes (GeoIsotopes or lab)",
+      "deuterium in lab"
+    ]
+  },
+  {
+    "challenge": "Biodegradation of oil",
+    "macrotopic": "FE",
+    "topic": "Fluid properties",
+    "tags": [
+      "Oil Wells"
+    ],
+    "level_1_solution": [
+      "G9+ / GC-MS (lab) > G8 > G5",
+      "Carbon isotopes (GeoIsotopes or lab)"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "G9+ / GC-MS (lab) > G8 > G5",
+      "Carbon isotopes (GeoIsotopes or lab)"
+    ]
+  },
+  {
+    "challenge": "Biodegradation of gas",
+    "macrotopic": "FE",
+    "topic": "Fluid properties",
+    "tags": [
+      "Gas wells"
+    ],
+    "level_1_solution": [
+      "G5",
+      "Carbon isotopes (GeoIsotopes or lab)"
+    ],
+    "level_2_solution": [
+      "deuterium isotopes"
+    ],
+    "solutions": [
+      "G5",
+      "Carbon isotopes (GeoIsotopes or lab)",
+      "deuterium isotopes"
+    ]
+  },
+  {
+    "challenge": "Phase separation (evaporative fractionation)",
+    "macrotopic": "FE",
+    "topic": "Fluid properties",
+    "tags": [
+      "Oil Wells"
+    ],
+    "level_1_solution": [
+      "G5",
+      "G8"
+    ],
+    "level_2_solution": [
+      "GC-MS (lab)"
+    ],
+    "solutions": [
+      "G5",
+      "G8",
+      "GC-MS (lab)"
+    ]
+  },
+  {
+    "challenge": "Water Washing",
+    "macrotopic": "FE",
+    "topic": "Fluid properties",
+    "tags": [
+      "Oil Wells"
+    ],
+    "level_1_solution": [
+      "G5",
+      "G8",
+      "phenols in lab"
+    ],
+    "level_2_solution": [
+      "GC-MS (lab)"
+    ],
+    "solutions": [
+      "G5",
+      "G8",
+      "phenols in lab",
+      "GC-MS (lab)"
+    ]
+  },
+  {
+    "challenge": "Reservoir (source) quality in unconventional",
+    "macrotopic": "FE",
+    "topic": "Reservoir Quality",
+    "tags": [
+      "Unconventional"
+    ],
+    "level_1_solution": [
+      "GeoSource",
+      "G5",
+      "G8"
+    ],
+    "level_2_solution": [
+      "Georox",
+      "Carbon Isotopes (lab)"
+    ],
+    "solutions": [
+      "GeoSource",
+      "G5",
+      "G8",
+      "Georox",
+      "Carbon Isotopes (lab)"
+    ]
+  },
+  {
+    "challenge": "Sweet Spots ID",
+    "macrotopic": "FE",
+    "topic": "Reservoir Quality",
+    "tags": [
+      "Unconventional"
+    ],
+    "level_1_solution": [
+      "G5",
+      "Georox",
+      "GeoSource"
+    ],
+    "level_2_solution": [
+      "GeoFracture",
+      "G8",
+      "PAM method pyrolysis"
+    ],
+    "solutions": [
+      "G5",
+      "Georox",
+      "GeoSource",
+      "GeoFracture",
+      "G8",
+      "PAM method pyrolysis"
+    ]
+  },
+  {
+    "challenge": "Permeability Assessment",
+    "macrotopic": "FE",
+    "topic": "Reservoir Quality",
+    "tags": [
+      "Unconventional"
+    ],
+    "level_1_solution": [
+      "Holistic Gas (HS+ResGas+mudgas)"
+    ],
+    "level_2_solution": [
+      "Carbon Isotopes (GeoIsotopes and Lab)",
+      "IsoJars cuttings headspace gas"
+    ],
+    "solutions": [
+      "Holistic Gas (HS+ResGas+mudgas)",
+      "Carbon Isotopes (GeoIsotopes and Lab)",
+      "IsoJars cuttings headspace gas"
+    ]
+  },
+  {
+    "challenge": "Reliable gas data in Managed Pressure Drilling",
+    "macrotopic": "FE",
+    "topic": "Basic FE",
+    "tags": [
+      "HPHT"
+    ],
+    "level_1_solution": [
+      "GeoMPD"
+    ],
+    "level_2_solution": [
+      "GeoMPD - double gas chain OUT"
+    ],
+    "solutions": [
+      "GeoMPD",
+      "GeoMPD - double gas chain OUT"
+    ]
+  },
+  {
+    "challenge": "reservoir porosity and permeability (matrix)",
+    "macrotopic": "FE",
+    "topic": "Reservoir Quality",
+    "tags": [],
+    "level_1_solution": [
+      "Georox",
+      "DC"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "Georox",
+      "DC"
+    ]
+  },
+  {
+    "challenge": "GOR/API - fluid properties",
+    "macrotopic": "FE",
+    "topic": "Fluid properties",
+    "tags": [
+      "Oil Wells"
+    ],
+    "level_1_solution": [
+      "G5",
+      "G8",
+      "PAM via Pyrolysis"
+    ],
+    "level_2_solution": [
+      "G9+",
+      "cut-fluo (DC)"
+    ],
+    "solutions": [
+      "G5",
+      "G8",
+      "PAM via Pyrolysis",
+      "G9+",
+      "cut-fluo (DC)"
+    ]
+  },
+  {
+    "challenge": "column grading - fluid heterogeneity in vertical sections",
+    "macrotopic": "FE",
+    "topic": "Fluid properties",
+    "tags": [
+      "Oil Wells"
+    ],
+    "level_1_solution": [
+      "G5",
+      "G8",
+      "G9+"
+    ],
+    "level_2_solution": [
+      "PAM via pyrolysis"
+    ],
+    "solutions": [
+      "G5",
+      "G8",
+      "G9+",
+      "PAM via pyrolysis"
+    ]
+  },
+  {
+    "challenge": "H2 detection",
+    "macrotopic": "FE",
+    "topic": "Non-HC gases",
+    "tags": [],
+    "level_1_solution": [
+      "GeoSKOPE"
+    ],
+    "level_2_solution": [
+      "GeoTubes and lab"
+    ],
+    "solutions": [
+      "GeoSKOPE",
+      "GeoTubes and lab"
+    ]
+  },
+  {
+    "challenge": "He detection",
+    "macrotopic": "FE",
+    "topic": "Non-HC gases",
+    "tags": [],
+    "level_1_solution": [
+      "GeoSKOPE"
+    ],
+    "level_2_solution": [
+      "GeoTubes and lab"
+    ],
+    "solutions": [
+      "GeoSKOPE",
+      "GeoTubes and lab"
+    ]
+  },
+  {
+    "challenge": "H2S detection",
+    "macrotopic": "FE",
+    "topic": "Non-HC gases",
+    "tags": [],
+    "level_1_solution": [
+      "ResGas",
+      "GeoSKOPE"
+    ],
+    "level_2_solution": [
+      "GeoTubes and lab"
+    ],
+    "solutions": [
+      "ResGas",
+      "GeoSKOPE",
+      "GeoTubes and lab"
+    ]
+  },
+  {
+    "challenge": "CO2 detection",
+    "macrotopic": "FE",
+    "topic": "Non-HC gases",
+    "tags": [],
+    "level_1_solution": [
+      "GeoSKOPE"
+    ],
+    "level_2_solution": [
+      "Carbon Isotopes of CO2 (GEOTubes + GCTCD)"
+    ],
+    "solutions": [
+      "GeoSKOPE",
+      "Carbon Isotopes of CO2 (GEOTubes + GCTCD)"
+    ]
+  },
+  {
+    "challenge": "well-to-well correlation (inorganic matrix)",
+    "macrotopic": "FE",
+    "topic": "well-to-well",
+    "tags": [],
+    "level_1_solution": [
+      "DC+XRD"
+    ],
+    "level_2_solution": [
+      "G5"
+    ],
+    "solutions": [
+      "DC+XRD",
+      "G5"
+    ]
+  },
+  {
+    "challenge": "source rock evaluation in conventional",
+    "macrotopic": "FE",
+    "topic": "Petroleum system input",
+    "tags": [],
+    "level_1_solution": [
+      "GeoSource",
+      "vitrinite reflectance (lab)"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "GeoSource",
+      "vitrinite reflectance (lab)"
+    ]
+  },
+  {
+    "challenge": "migration pathway",
+    "macrotopic": "FE",
+    "topic": "Petroleum system input",
+    "tags": [],
+    "level_1_solution": [
+      "phenols and carbazoles in lab"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "phenols and carbazoles in lab"
+    ]
+  },
+  {
+    "challenge": "burial history",
+    "macrotopic": "FE",
+    "topic": "Petroleum system input",
+    "tags": [],
+    "level_1_solution": [
+      "vitrinite reflectance (lab)",
+      "GeoSource"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "vitrinite reflectance (lab)",
+      "GeoSource"
+    ]
+  },
+  {
+    "challenge": "FE in viscous and heavy oils",
+    "macrotopic": "FE",
+    "topic": "Fluid properties",
+    "tags": [],
+    "level_1_solution": [
+      "G9+ coupled with PAM with pyrolysis or HAWK (lab)"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "G9+ coupled with PAM with pyrolysis or HAWK (lab)"
+    ]
+  },
+  {
+    "challenge": "gas cap ID",
+    "macrotopic": "FE",
+    "topic": "Basic FE",
+    "tags": [],
+    "level_1_solution": [
+      "G5"
+    ],
+    "level_2_solution": [
+      "G8"
+    ],
+    "solutions": [
+      "G5",
+      "G8"
+    ]
+  },
+  {
+    "challenge": "reduction of MDT, RFT - well testing",
+    "macrotopic": "FE",
+    "topic": "Fluid properties",
+    "tags": [],
+    "level_1_solution": [
+      "G5",
+      "G8",
+      "G9+"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "G5",
+      "G8",
+      "G9+"
+    ]
+  },
+  {
+    "challenge": "ash beds",
+    "macrotopic": "FE",
+    "topic": "Inorganic",
+    "tags": [],
+    "level_1_solution": [
+      "DC+XRD"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "DC+XRD"
+    ]
+  },
+  {
+    "challenge": "basement ID",
+    "macrotopic": "FE",
+    "topic": "Inorganic",
+    "tags": [],
+    "level_1_solution": [
+      "Georox"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "Georox"
+    ]
+  },
+  {
+    "challenge": "mineralogical complexity",
+    "macrotopic": "FE",
+    "topic": "Inorganic",
+    "tags": [],
+    "level_1_solution": [
+      "Georox",
+      "DC"
+    ],
+    "level_2_solution": [
+      "lab ICP-MS on rocks"
+    ],
+    "solutions": [
+      "Georox",
+      "DC",
+      "lab ICP-MS on rocks"
+    ]
+  },
+  {
+    "challenge": "volcanic intrusion",
+    "macrotopic": "FE",
+    "topic": "Drilling efficiency",
+    "tags": [],
+    "level_1_solution": [
+      "Georox",
+      "Bitlife"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "Georox",
+      "Bitlife"
+    ]
+  },
+  {
+    "challenge": "bit balling identification",
+    "macrotopic": "FE",
+    "topic": "Drilling efficiency",
+    "tags": [],
+    "level_1_solution": [
+      "Georox",
+      "Bitlife"
+    ],
+    "level_2_solution": [
+      "clay typing with glycolation"
+    ],
+    "solutions": [
+      "Georox",
+      "Bitlife",
+      "clay typing with glycolation"
+    ]
+  },
+  {
+    "challenge": "casing and landing points",
+    "macrotopic": "FE",
+    "topic": "Completion",
+    "tags": [
+      "Unconventional"
+    ],
+    "level_1_solution": [
+      "Georox",
+      "DC"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "Georox",
+      "DC"
+    ]
+  },
+  {
+    "challenge": "swelling clays presence",
+    "macrotopic": "FE",
+    "topic": "Inorganic",
+    "tags": [],
+    "level_1_solution": [
+      "Georox",
+      "clay typing with glycolation"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "Georox",
+      "clay typing with glycolation"
+    ]
+  },
+  {
+    "challenge": "evaporitic layers in WBM",
+    "macrotopic": "FE",
+    "topic": "Inorganic",
+    "tags": [],
+    "level_1_solution": [
+      "Georox"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "Georox"
+    ]
+  },
+  {
+    "challenge": "completion and fracking optimization",
+    "macrotopic": "FE",
+    "topic": "Completion",
+    "tags": [
+      "Unconventional"
+    ],
+    "level_1_solution": [
+      "GeoFracture",
+      "Georox",
+      "GeoSource"
+    ],
+    "level_2_solution": [
+      "Carbon isotopes (GeoIsotopes or lab)",
+      "G9+"
+    ],
+    "solutions": [
+      "GeoFracture",
+      "Georox",
+      "GeoSource",
+      "Carbon isotopes (GeoIsotopes or lab)",
+      "G9+"
+    ]
+  },
+  {
+    "challenge": "Cutting depth allocation",
+    "macrotopic": "FE",
+    "topic": "Inorganic",
+    "tags": [],
+    "level_1_solution": [
+      "Georox (XRF)"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "Georox (XRF)"
+    ]
+  },
+  {
+    "challenge": "Early open fracture and microfracture ID",
+    "macrotopic": "FE",
+    "topic": "Inorganic",
+    "tags": [],
+    "level_1_solution": [
+      "GeoFracture"
+    ],
+    "level_2_solution": [
+      "Georox"
+    ],
+    "solutions": [
+      "GeoFracture",
+      "Georox"
+    ]
+  },
+  {
+    "challenge": "Stratigraphic and Palaeoenvironmental interpretation - Correlation",
+    "macrotopic": "FE",
+    "topic": "Inorganic",
+    "tags": [],
+    "level_1_solution": [
+      "Georox"
+    ],
+    "level_2_solution": [
+      "DC"
+    ],
+    "solutions": [
+      "Georox",
+      "DC"
+    ]
+  },
+  {
+    "challenge": "reduction of PLT",
+    "macrotopic": "Production",
+    "topic": "",
+    "tags": [],
+    "level_1_solution": [
+      "GC-MS (lab)"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "GC-MS (lab)"
+    ]
+  },
+  {
+    "challenge": "DRV",
+    "macrotopic": "Production",
+    "topic": "",
+    "tags": [
+      "Unconventional"
+    ],
+    "level_1_solution": [
+      "GC-MS (lab)"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "GC-MS (lab)"
+    ]
+  },
+  {
+    "challenge": "allocation of prodution (oil, gas and water) - fiscal metering",
+    "macrotopic": "Production",
+    "topic": "",
+    "tags": [],
+    "level_1_solution": [
+      "GC-MS (lab)"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "GC-MS (lab)"
+    ]
+  },
+  {
+    "challenge": "monitoring of production",
+    "macrotopic": "Production",
+    "topic": "",
+    "tags": [],
+    "level_1_solution": [
+      "GC-MS (lab)"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "GC-MS (lab)"
+    ]
+  },
+  {
+    "challenge": "water coning in production",
+    "macrotopic": "Production",
+    "topic": "",
+    "tags": [],
+    "level_1_solution": [
+      "GC-MS (lab) - water"
+    ],
+    "level_2_solution": [
+      "GC-MS (lab) - oil"
+    ],
+    "solutions": [
+      "GC-MS (lab) - water",
+      "GC-MS (lab) - oil"
+    ]
+  },
+  {
+    "challenge": "production optimization (identification of low producing zones to plan  workover)",
+    "macrotopic": "Production",
+    "topic": "",
+    "tags": [],
+    "level_1_solution": [
+      "GC-MS (lab)"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "GC-MS (lab)"
+    ]
+  },
+  {
+    "challenge": "validation of current metering tools (legal)",
+    "macrotopic": "Production",
+    "topic": "",
+    "tags": [],
+    "level_1_solution": [
+      "GC-MS (lab)"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "GC-MS (lab)"
+    ]
+  },
+  {
+    "challenge": "production: casing, tubing and leaking detection",
+    "macrotopic": "Production",
+    "topic": "",
+    "tags": [],
+    "level_1_solution": [
+      "GC-MS (lab)"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "GC-MS (lab)"
+    ]
+  },
+  {
+    "challenge": "Unreliable or absence of Gamma ray, risk of tool failure (backup)",
+    "macrotopic": "Digital and Automation",
+    "topic": "cannot run WL tools/reduce costs/unreliable downhole",
+    "tags": [],
+    "level_1_solution": [
+      "Georox"
+    ],
+    "level_2_solution": [
+      "VINCI GeoMechanics"
+    ],
+    "solutions": [
+      "Georox",
+      "VINCI GeoMechanics"
+    ]
+  },
+  {
+    "challenge": "Unreliable or absence of SONIC log, risk of tool failure",
+    "macrotopic": "Digital and Automation",
+    "topic": "cannot run WL tools/reduce costs/unreliable downhole",
+    "tags": [],
+    "level_1_solution": [
+      "VINCI GeoMechanics"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "VINCI GeoMechanics"
+    ]
+  },
+  {
+    "challenge": "Unreliable or absence of DENSITY log, risk of tool failure",
+    "macrotopic": "Digital and Automation",
+    "topic": "cannot run WL tools/reduce costs/unreliable downhole",
+    "tags": [],
+    "level_1_solution": [
+      "VINCI GeoMechanics"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "VINCI GeoMechanics"
+    ]
+  },
+  {
+    "challenge": "Estimation of geomechanical parameters",
+    "macrotopic": "Digital and Automation",
+    "topic": "cannot run WL tools/reduce costs/unreliable downhole",
+    "tags": [],
+    "level_1_solution": [
+      "VINCI GeoMechanics"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "VINCI GeoMechanics"
+    ]
+  },
+  {
+    "challenge": "high T downhole - replacement of LWD,wireline",
+    "macrotopic": "Digital and Automation",
+    "topic": "cannot run WL tools/reduce costs/unreliable downhole",
+    "tags": [
+      "HPHT",
+      "Geothermal"
+    ],
+    "level_1_solution": [
+      "VINCI Geomechanics"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "VINCI Geomechanics"
+    ]
+  },
+  {
+    "challenge": "unreliable sample catching",
+    "macrotopic": "Digital and Automation",
+    "topic": "automation",
+    "tags": [],
+    "level_1_solution": [
+      "AUTOMA"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "AUTOMA"
+    ]
+  },
+  {
+    "challenge": "reduce POB",
+    "macrotopic": "Digital and Automation",
+    "topic": "automation",
+    "tags": [
+      "Deepwater"
+    ],
+    "level_1_solution": [
+      "AUTOMA",
+      "Smart Shakers"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "AUTOMA",
+      "Smart Shakers"
+    ]
+  },
+  {
+    "challenge": "surface losses monitoring and assessment",
+    "macrotopic": "Digital and Automation",
+    "topic": "automation",
+    "tags": [
+      "Deepwater"
+    ],
+    "level_1_solution": [
+      "Smart Shakers"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "Smart Shakers"
+    ]
+  },
+  {
+    "challenge": "cavings identification",
+    "macrotopic": "Digital and Automation",
+    "topic": "automation",
+    "tags": [
+      "Deepwater"
+    ],
+    "level_1_solution": [
+      "Smart Shakers"
+    ],
+    "level_2_solution": [
+      "DrillClean"
+    ],
+    "solutions": [
+      "Smart Shakers",
+      "DrillClean"
+    ]
+  },
+  {
+    "challenge": "equipment (shale shakers) damage identification",
+    "macrotopic": "Digital and Automation",
+    "topic": "automation",
+    "tags": [
+      "Deepwater"
+    ],
+    "level_1_solution": [
+      "Smart Shakers"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "Smart Shakers"
+    ]
+  },
+  {
+    "challenge": "stuck pipe prevention (low returns, cuttings beds,hole inclination) - associated to NPT",
+    "macrotopic": "Digital and Automation",
+    "topic": "BH instability",
+    "tags": [],
+    "level_1_solution": [
+      "DrillHazard"
+    ],
+    "level_2_solution": [
+      "DrillClean",
+      "NSD"
+    ],
+    "solutions": [
+      "DrillHazard",
+      "DrillClean",
+      "NSD"
+    ]
+  },
+  {
+    "challenge": "measurement of interactions between drillistring and borehole",
+    "macrotopic": "Digital and Automation",
+    "topic": "Drilling efficiency",
+    "tags": [],
+    "level_1_solution": [
+      "Torque and Drag"
+    ],
+    "level_2_solution": null,
+    "solutions": [
+      "Torque and Drag"
+    ]
+  }
+]
