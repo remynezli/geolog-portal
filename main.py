@@ -200,14 +200,6 @@ class SearchRequest(BaseModel):
     tags: List[str] = []
     query: str = ""
 
-# ----------------- STATIC FILES -----------------
-
-STATIC_DIR = BASE_DIR.parent / "static"
-app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
-
-@app.get("/")
-def serve_index():
-    return FileResponse(STATIC_DIR / "index.html")
 
 # ----------------- API ENDPOINTS -----------------
 
