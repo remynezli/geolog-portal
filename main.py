@@ -7,27 +7,7 @@ from pathlib import Path
 from typing import List, Dict, Any, Optional
 import json
 import re
-
-
-
-from fastapi import FastAPI
-from fastapi.middleware.cors import CORSMiddleware
-
-app = FastAPI()
-
-origins = [
-    "https://geolog.raminezli.com",
-    "http://geolog.raminezli.com",
-]
-
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=origins,
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
+from difflib import SequenceMatcher
 
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -44,6 +24,11 @@ app.add_middleware(
 )
 
 # ----------------- DATA LOADING -----------------
+def fuzzy_match(a: str, b: str, threshold: int = 80) -> bool:
+    if not a or not b:
+        return False
+    ratio = SequenceMatcher(None, a.lower(), b.lower()).ratio() * 100
+    return ratio >= threshold
 
 def load_challenges(path: Path) -> List[Dict[str, Any]]:
     with path.open("r", encoding="utf-8") as f:
@@ -162,6 +147,8 @@ def filter_challenges(
         ]
 
     search_text = (search_text or "").strip().lower()
+
+    # 🔹 If no free-text query: just return the filtered list (by macro/topic/tags)
     if not search_text:
         return results
 
@@ -180,14 +167,27 @@ def filter_challenges(
 
         score = 0
         for kw in keywords:
-            if keyword_matches_text(kw, tags_text):
+            # TAGS scoring (highest weight)
+            if keyword_matches_text(kw, tags_text) or fuzzy_match(kw, tags_text):
                 score += 3
-            if keyword_matches_text(kw, topic_text):
+
+            # TOPIC scoring
+            if keyword_matches_text(kw, topic_text) or fuzzy_match(kw, topic_text):
                 score += 2
-            if keyword_matches_text(kw, challenge_text):
+
+            # CHALLENGE TEXT scoring
+            if keyword_matches_text(kw, challenge_text) or fuzzy_match(kw, challenge_text):
                 score += 1
 
         scored.append((score, r))
+
+    # ⛔️ HERE IS THE IMPORTANT PART
+    # Only keep items with score > 0 when there is a query
+    scored = [(s, r) for s, r in scored if s > 0]
+
+    # Optional: if nothing matched, return empty list
+    if not scored:
+        return []
 
     scored.sort(key=lambda x: x[0], reverse=True)
     return [r for score, r in scored]
